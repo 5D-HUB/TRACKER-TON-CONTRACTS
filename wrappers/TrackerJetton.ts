@@ -1,0 +1,1 @@
+export * from '../build/TrackerJetton/tact_TrackerJetton';
